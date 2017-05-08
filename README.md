@@ -1,3 +1,5 @@
+# Simple-Flask-API-server-for-mobile-apps
+A simple Flask API server for mobile apps development
 STRUCTURE:
 mobserv = virtualenv directory
 
@@ -15,4 +17,3 @@ mobserv = virtualenv directory
     2. `flask/bin/pip install flask-sqlalchemy`
     3. `[to be updated]`
     4. `pip install PyMySQL`//might not be needed
-
