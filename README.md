@@ -23,3 +23,5 @@ A simple Flask API server for mobile apps development
     2. `flask/bin/pip install flask-sqlalchemy`
     3. `[to be updated]`
     4. `pip install PyMySQL`//might not be needed
+
+For more details: https://github.com/nabinkhadka/Simple-Flask-API-server-for-mobile-apps/wiki
