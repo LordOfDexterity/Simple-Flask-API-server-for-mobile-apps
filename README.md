@@ -19,7 +19,7 @@ A simple Flask API server for mobile apps development
     `virtualenv mobserv`
 3. Install flask packages:
 
-    cd mobserv
-    pip install -r requirements.txt
+    `cd mobserv`
+    `pip install -r requirements.txt`
 
 For more details: https://github.com/nabinkhadka/Simple-Flask-API-server-for-mobile-apps/wiki
